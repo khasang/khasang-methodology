@@ -1,7 +1,9 @@
 # About
 **Khasang** -- сообщество разработчиков опен-сорс проектов, проводимых по единой методологии Khasang
+
+**Текущая версия методологии**: 0.1
 ## Где живет Khasang
-1. Корпоративный чат: khasang.slack.com
+1. Корпоративный чат: https://khasang.slack.com
 2. Git: https://github.com/khasang
 	1. Единая методология ведения опен-сорс проектов: https://github.com/khasang/khasang-methodology
 	
