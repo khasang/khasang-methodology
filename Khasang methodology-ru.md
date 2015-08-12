@@ -175,4 +175,3 @@ https://en.wikipedia.org/wiki/Minimum_viable_product
 * Pencil-project -- прототипирование
 * plantuml.com -- для проектирования, используя UML
 
-Что то крутое
