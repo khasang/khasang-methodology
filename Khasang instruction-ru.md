@@ -48,6 +48,10 @@ This channel is for team-wide communication and announcements. All team members 
 # #testing-slack
 Канал для знакомства со Slack. Драг-н-дропим сюда файлы, кидаем ссылки, тестируем, как работают упоминания других участников (через @) и каналов (через #). Просто спам, тест и хелло ворлд не относящиеся ни к чему
 
+#Обмен информацией
+Для записи новых ссылок: https://workflowy.com/s/xcpVSF6riW  
+
+Для чтения структурированных: https://workflowy.com/s/WHjTOqEWkR
 
 
 
