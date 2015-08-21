@@ -100,7 +100,8 @@ Public relation, marketing.
 
 ## Step3. UI Drafts
 Рисуем дизайн нашего приложения
-Ответственные за этап: **UI designer** и **Usability designer**.
+Ответственный за этап: **Product owner**.
+Исполнители: **UI designer** и **Usability designer**.
 
 1. Рисуем мокапы (эскизы нашего продукта)
 Необходимо отчетливо представлять, как он будет выглядеть для пользователей
