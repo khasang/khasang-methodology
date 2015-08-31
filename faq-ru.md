@@ -30,9 +30,10 @@
  * [Подскажите, что почитать, чтобы настроить под себя slack](#Подскажите-что-почитать-чтобы-настроить-под-себя-slack)
 
 ####Что нужно поставить на комп разработчикам? 
-git  
-idea  
-https://desktop.github.com/ (edited)  
+Git (Система контроля версий) 
+IntelliJ IDEA (IDE для написания кода)  
+JDK (Java Developer Kit)
+Git GUI (GitHub Desktop, SourceTree, SmartGit) 
 
 ####Что такое пользовательские истории 
 "As &lt;who> &lt;when> &lt;where>, I &lt;what> because &lt;why>."  
