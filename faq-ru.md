@@ -31,7 +31,8 @@
 
 ####Что нужно поставить на комп разработчикам? 
 Git (Система контроля версий) 
-IntelliJ IDEA (IDE для написания кода)  
+IntelliJ IDEA или Android Studio
+Genymotion (Эмулятор Android) - лучше чем Google
 JDK (Java Developer Kit)
 Git GUI (GitHub Desktop, SourceTree, SmartGit) 
 
