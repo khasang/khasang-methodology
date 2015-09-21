@@ -31,10 +31,11 @@
 
 ####Что нужно поставить на комп разработчикам? 
 Git (Система контроля версий) 
-IntelliJ IDEA или Android Studio
-Genymotion (Эмулятор Android) - лучше чем Google
-JDK (Java Developer Kit)
-Git GUI (GitHub Desktop, SourceTree, SmartGit) 
+Git GUI (Предпочтительно [GitHub Desktop](https://desktop.github.com/), опционально: SourceTree, SmartGit)  
+IntelliJ IDEA или Android Studio  
+JDK (Java Developer Kit)  
+
+Genymotion (Эмулятор Android) - лучше чем Google  
 
 ####Что такое пользовательские истории 
 "As &lt;who> &lt;when> &lt;where>, I &lt;what> because &lt;why>."  
