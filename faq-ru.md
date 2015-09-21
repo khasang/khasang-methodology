@@ -30,12 +30,14 @@
  * [Подскажите, что почитать, чтобы настроить под себя slack](#Подскажите-что-почитать-чтобы-настроить-под-себя-slack)
 
 ####Что нужно поставить на комп разработчикам? 
+#####Всем
 Git (Система контроля версий) 
 Git GUI (Предпочтительно [GitHub Desktop](https://desktop.github.com/), опционально: SourceTree, SmartGit)  
-IntelliJ IDEA или Android Studio  
+#####Разработчикам Java & Android
+IntelliJ IDEA
 JDK (Java Developer Kit)  
-
-Genymotion (Эмулятор Android) - лучше чем Google  
+#####Разработчикам Android
+Genymotion (Эмулятор Android)
 
 ####Что такое пользовательские истории 
 "As &lt;who> &lt;when> &lt;where>, I &lt;what> because &lt;why>."  
